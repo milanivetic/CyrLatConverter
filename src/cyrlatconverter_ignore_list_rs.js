@@ -52,16 +52,15 @@ let CyrLatIgnoreList = {
 	"office" : '',	
  	"cookie" : '',
  	"cyrlatconverter" : '',
- 	"cyrlatconvert" : '',
- 	"cyrlatignore" : '',
-	"skola@tsk.edu.rs" : '',
-	"cisco" : '',
-	"ecdl" : '',
-	"oracle" : '',
-	"I-" : '',
-	"II-" : '',
-	"III-" : '',
-	"IV-" : ''
+ 	"skola@tsk.edu.rs" : '',
+ 	"cisco" : '',
+    "ecdl" : '',
+    "oracle" : '',
+    "I-" : '',
+    "II-" : '',
+    "III-" : '',
+    "IV-" : ''
+    
 };
 
 //ignore EXACT words from double letters chaining into one
