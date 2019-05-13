@@ -54,6 +54,7 @@ let CyrLatIgnoreList = {
  	"cyrlatconverter" : '',
  	"cyrlatconvert" : '',
  	"cyrlatignore" : ''
+	"edu.rs" : ''
 };
 
 //ignore EXACT words from double letters chaining into one
